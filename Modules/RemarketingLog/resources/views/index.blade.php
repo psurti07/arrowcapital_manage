@@ -26,10 +26,10 @@
                     <option value="" selected>All</option>
                     <option value="11-SMS-Lead">Self Apply Lead SMS</option>
                     <option value="11-SMS-Customer">Self Apply Customer SMS</option>
-                    <option value="12-SMS-Lead">Loan Agent Lead SMS</option>
+                    {{-- <option value="12-SMS-Lead">Loan Agent Lead SMS</option> --}}
                     <option value="11-SMS-Closed">Self Apply Customer Service Closed SMS</option>
                     <option value="11-Whatsapp-Lead">Self Apply Lead Whatsapp</option>
-                    <option value="12-Whatsapp-Lead">Loan Agent Lead Whatsapp</option>
+                    {{-- <option value="12-Whatsapp-Lead">Loan Agent Lead Whatsapp</option> --}}
                 </select>
             </div>
             <div class="col-md-2 position-relative">

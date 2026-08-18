@@ -29,7 +29,7 @@
                         <select class="form-select" name="parentid" id="parentid">
                             <option value="" selected>All</option>
                             <option value="self-apply">Self Apply</option>
-                            <option value="hire-agent">Loan Agent</option>
+                            {{-- <option value="hire-agent">Loan Agent</option> --}}
                         </select>
                     </div>
                     <div class="col-md-4 col-sm-6 position-relative">
